@@ -1,0 +1,1 @@
+Exercícios para preparação para o exame final da cadeira de Laboratório de Programação I (C++).
